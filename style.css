@@ -1,0 +1,37 @@
+* {
+  width: 750px;
+  font-family: Nunito, Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 18px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 27px;
+}
+
+h1 {
+  font-family: "Borel", "Lilita One", Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 800;
+  font-size: 42px;
+  background-color: orangered;
+  color: white;
+  text-align: center;
+  height: 100px;
+  line-height: 120px;
+  margin: 0;
+}
+
+table {
+  border: 1px solid hsla(0, 10%, 70%, 0.8);
+}
+
+th {
+  text-align: left;
+}
+
+ul {
+  list-style-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%23EC550B"><path d="M18 4c-4-1-6 3-6 3s-2-4-6-3-4 6-2 8l8 8 8-8c2-2 2-7-2-8z"></path></svg>');
+}
